@@ -67,3 +67,50 @@
 .navbar-default .navbar-nav>li>a {
   color:#337ab7
 }
+
+.info-box {
+    display: inline-block;
+    width: 220px;
+    border: 1px solid;
+    padding: 10px;
+    height: 110px;
+    float: left;
+    margin-left: 10px;
+    margin-right: 20px;
+    border-radius: 5px;
+}
+.info-center {
+  width: 750px;
+      margin: 0 auto;
+}
+.intro-message > h1 {
+    margin: 0;
+    text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+    font-size: 50px;
+    margin-bottom: 100px;
+    line-height: 1.5;
+}
+.mt22 {
+  margin-top: 22px;
+}
+.intro-message {
+    padding-top: 30%;
+    padding-bottom: 30%;
+}
+.mod-p p {
+  font-size: 16px;
+      font-weight: 400;
+      color: #505050;
+      line-height: 1.5;
+}
+.thumbnail {margin-bottom:6px;}
+
+.carousel-control.left,.carousel-control.right{
+  background-image:none;
+  margin-top:10%;
+  width:5%;
+}
+.spacethis {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
